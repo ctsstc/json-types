@@ -13,7 +13,7 @@ Looks like this may have originated from:
 ## Installation
 
 ```bash
-npm i github:ctsstc/json-types
+npm i -D github:ctsstc/json-types
 ```
 
 ## Usage
