@@ -1,5 +1,5 @@
 {
-  "name": "json-types",
+  "name": "@coder/json-types",
   "version": "1.0.0",
   "description": "Stop using `any` for JSON typing, use `JSONObject` instead.",
   "main": "dist/index.js",
