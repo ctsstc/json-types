@@ -1,4 +1,4 @@
-import { JSONArray, JSONObject, JSONValue } from './json-types'
+import { JSONArray, JSONObject, JSONValue } from './src/json-types'
 
 const someJson: JSONObject = {
   foo: "bar",
