@@ -10,6 +10,12 @@ Looks like this may have originated from:
 
 > Same great taste, but now includes `null` as a value too.
 
+## Installation
+
+```bash
+npm i github:ctsstc/json-types
+```
+
 ## Usage
 
 Can also be found in `examples.ts`.
