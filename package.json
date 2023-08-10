@@ -30,9 +30,7 @@
   },
   "homepage": "https://github.com/ctsstc/json-types#readme",
   "devDependencies": {
-    "typescript": "^5.1.6"
-  },
-  "dependencies": {
+    "typescript": "^5.1.6",
     "rimraf": "^5.0.1"
   }
 }
