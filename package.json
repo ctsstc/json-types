@@ -1,0 +1,23 @@
+{
+  "name": "json-types",
+  "version": "1.0.0",
+  "description": "Stop using `any` for JSON typing, use `JSONObject` instead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctsstc/json-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctsstc/json-types/issues"
+  },
+  "homepage": "https://github.com/ctsstc/json-types#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
